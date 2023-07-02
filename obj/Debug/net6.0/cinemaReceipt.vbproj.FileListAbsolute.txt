@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\cinemaReceipt\bin\Debug\net6.0\cinemaReceipt.exe
+C:\Users\USER\source\repos\cinemaReceipt\bin\Debug\net6.0\cinemaReceipt.deps.json
+C:\Users\USER\source\repos\cinemaReceipt\bin\Debug\net6.0\cinemaReceipt.runtimeconfig.json
+C:\Users\USER\source\repos\cinemaReceipt\bin\Debug\net6.0\cinemaReceipt.dll
+C:\Users\USER\source\repos\cinemaReceipt\bin\Debug\net6.0\cinemaReceipt.pdb
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.AssemblyInfo.vb
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.dll
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\refint\cinemaReceipt.dll
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.pdb
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\cinemaReceipt.genruntimeconfig.cache
+C:\Users\USER\source\repos\cinemaReceipt\obj\Debug\net6.0\ref\cinemaReceipt.dll
